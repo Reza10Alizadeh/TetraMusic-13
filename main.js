@@ -8,7 +8,7 @@ window.addEventListener("load", () => {
     container: "#waveform",
     waveColor: "#ddd",
     progressColor: "#a1a6a5",
-    url: "music/06 Shadmehr Aghili - Vaghti Didam.mp3",
+    url: "music/2_5406770102269910843.mp3",
     borderWidth: 4,
     responsive: true,
     height: 60,
